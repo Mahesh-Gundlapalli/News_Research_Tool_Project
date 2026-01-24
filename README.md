@@ -15,16 +15,10 @@ It is a user-friendly news research tool designed for effortless information ret
 
 ## Installation
 
-1.Clone this repository to your local machine using:
+1.Clone this repository to your local machine:
 
-```bash
-  git clone https://github.com/Mahesh-Gundlapalli/News_Research_Tool_Project.git
-```
 2.Navigate to the project directory:
 
-```bash
-  cd 2_news_research_tool_project
-```
 3. Install the required dependencies using pip:
 
 ```bash
